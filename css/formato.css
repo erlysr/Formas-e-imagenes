@@ -1,0 +1,26 @@
+header
+{
+	text-align: center;
+}
+header #imagen_header
+{
+	-moz-transform: scale(2,2);
+	-webkit-transform: scale(2,2);
+}
+
+#contenido
+{
+	display: block;
+}
+
+#contenido
+{
+	text-align: center;
+}
+#contenido img  
+{
+	width: 200px;
+	height: 200px;
+	padding: 30px;
+
+}
