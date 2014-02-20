@@ -1,11 +1,15 @@
+/* Laptop 6:47pm */
 header
 {
 	text-align: center;
 }
-header #imagen_header
+#foto_banner
 {
-	-moz-transform: scale(2,2);
-	-webkit-transform: scale(2,2);
+	background: url("../img/VistaMonarca.JPG");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	text-align: center;
+	height: 480px;
 }
 
 #contenido
